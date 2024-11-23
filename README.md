@@ -1,14 +1,14 @@
 # **<div align="center">Hola 🖐️, me llamo Rafael y soy Desarrollador de Software</div>**  
   
 
-<div align="center">Mi fuerte es el desarrollo de servicios con Java y Spring Boot. Además, estoy familiarizado con Oracle PL/SQL y el desarrollo frontend con Angular.</div>  
+<div align="center">Mi fuerte es el desarrollo de servicios con Java y Spring Boot 💪. Además, estoy familiarizado con Oracle PL/SQL 🤓 y el desarrollo frontend con Angular 🙂.</div>  
   
 
 
 
 ### Contacto  
 <div align="center">
-<a href="https://linkedin.com/in/rafael-ecortez/" target="_blank">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/rafael-ecortez/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
@@ -36,6 +36,9 @@
 <a href="https://www.oracle.com/in/index.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Oracle" height="50" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 </div>  
+
+  
+  
 
   
   
