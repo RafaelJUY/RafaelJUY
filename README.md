@@ -1,7 +1,7 @@
 # **<div align="center">Hola 🖐️, me llamo Rafael y soy Desarrollador de Software</div>**  
   
 
-<div align="center">Mi fuerte es el desarrollo de servicios con Java y Spring Boot 💪. Además, estoy familiarizado con Oracle PL/SQL 🤓 y el desarrollo frontend con Angular 🙂.</div>  
+<div align="center">Mi fuerte es el desarrollo de servicios con Java y Spring Boot 💪. Además, estoy familiarizado con Angular 🙂.</div>  
   
 
 
